@@ -1,3 +1,6 @@
+https://dev.irpteam.com/tc/buildConfiguration/IRP_RunVA/37514?buildTab=tests&status=failed
+
+
 PartnerCatalogs
 Не был найден файл лога в исходном каталоге, скорей всего проблема с ошибками написания пути каталога, т.к. в нем 
 присутствуют одноверменно "/" и "\", что недопустимо: "C:\BuildAgentThree\work\161527a3295c878a/VAResult/logdata/PartnerCatalogs.log".
