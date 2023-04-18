@@ -3,7 +3,7 @@
 	"Lang": "ru",
 	"DebugLog": false,
 	"ВерсияVA": "ver 1.2.040.9",
-	"КаталогФич": "C:\\Users\\str3am\\Documents\\GitHub\\TestQA\\FeaturesVA\\Модуль 2\\Internal\\Создание документа Заказ с проверкой итогового количества.feature",
+	"КаталогФич": "C:\\Users\\str3am\\Documents\\GitHub\\TestQA\\Features_IRP\\External\\Экспорт основных данных.feature",
 	"ДобавлятьКИмениСценарияУсловияВыгрузки": false,
 	"ЗаписыватьВидеоВыполненияТестов": false,
 	"КоличествоКадровВидеоВыполненияТестов": 5,
@@ -123,7 +123,8 @@
 	"ДелатьОтчетВоВнутреннемФормате": false,
 	"КаталогиБиблиотек": [
 		"D:\\VanessaAutomation\\features\\Libraries",
-		"C:\\Users\\str3am\\Documents\\GitHub\\TestQA\\FeaturesVA\\External"
+		"C:\\Users\\str3am\\Documents\\GitHub\\TestQA\\FeaturesVA\\External",
+		"C:\\Users\\str3am\\Documents\\GitHub\\TestQA\\Features_IRP\\External"
 	],
 	"СписокТеговИсключение": [
 		"IgnoreOnCIMainBuild"
